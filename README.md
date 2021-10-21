@@ -1,2 +1,2 @@
-# CoderCOMP.github.io
+# Knowing how to Use Terminal
 I will talk about what I've read throughout the article of how the Terminal works on certain computers.
