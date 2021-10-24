@@ -11,3 +11,5 @@ I will talk about what I've read throughout the article of how the Terminal work
   - Cheat Sheet for Terminal on Windows OS: https://cheatography.com/martinthogersen/cheat-sheets/windows-terminal/
   - Cheat Sheet for Terminal on Linux: https://linuxconfig.org/linux-commands-cheat-sheet
   - Cheat Sheet for Terminal on MacOS: https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/
+
+[Page 4: Understanding Git](https://michaelcurry99.github.io/WhatisGit.github.io/) ➡
